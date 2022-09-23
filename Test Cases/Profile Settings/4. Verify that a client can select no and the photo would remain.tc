@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that once a client click &quot;Delete&quot; and the confirmation prompt (Yes/No) is received and the option (NO) is selected, the attempt to delete the existing profile photo is withdrawn.</description>
+   <name>4. Verify that a client can select no and the photo would remain</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>dca1ac2e-57e5-4183-84fd-6640905f8270</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>13. Verify that a registered Moneyline user can view the alerts of a logged-in profile</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>77afcf93-6a8e-4151-bc9f-83689862ffd2</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that  If the user's profile picture is already existing and the user wants to upload a photo, they can by clicking &quot;Edit&quot;.</description>
+   <name>5. Verify that a client can edit photo</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ff8eb381-64c4-424d-9e30-f5c252e09d3d</testCaseGuid>
+</TestCaseEntity>

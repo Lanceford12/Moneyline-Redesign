@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>6. Verify that a client can delete a message thread (Yes)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c8d80209-2ee9-4587-9617-d6b429459750</testCaseGuid>
+</TestCaseEntity>

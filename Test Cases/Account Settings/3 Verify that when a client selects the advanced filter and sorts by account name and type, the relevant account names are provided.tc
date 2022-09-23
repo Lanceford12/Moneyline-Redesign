@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>3 Verify that when a client selects the advanced filter and sorts by account name and type, the relevant account names are provided</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1df96d3b-0063-4313-8035-948d483fdc57</testCaseGuid>
+</TestCaseEntity>

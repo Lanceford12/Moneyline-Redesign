@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>10. Verify that a registered Moneyline user can search for a message in Moneyline</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7994af56-ee5b-4575-a1f3-3f2c96a111c3</testCaseGuid>
+</TestCaseEntity>

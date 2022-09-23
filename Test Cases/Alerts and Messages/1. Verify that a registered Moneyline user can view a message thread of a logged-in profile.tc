@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>1. Verify that a registered Moneyline user can view a message thread of a logged-in profile</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7b79cfbe-bb37-4555-99e0-16db69895d3b</testCaseGuid>
+</TestCaseEntity>

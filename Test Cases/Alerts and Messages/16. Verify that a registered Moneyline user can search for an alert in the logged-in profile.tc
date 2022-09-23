@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>16. Verify that a registered Moneyline user can search for an alert in the logged-in profile</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>85f54ef7-f66e-44aa-86ff-b5aa53bf5389</testCaseGuid>
+</TestCaseEntity>

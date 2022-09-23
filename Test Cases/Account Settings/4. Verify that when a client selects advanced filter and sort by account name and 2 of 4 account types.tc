@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>4. Verify that when a client selects advanced filter and sort by account name and 2 of 4 account types</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>16408a73-1cf2-4e1c-9aeb-12e82d3f696f</testCaseGuid>
+</TestCaseEntity>

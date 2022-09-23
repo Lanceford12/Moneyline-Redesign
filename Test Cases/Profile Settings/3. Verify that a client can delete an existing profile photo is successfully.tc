@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that once a client click &quot;Delete&quot; and the confirmation prompt (Yes/No) is received and the option (Yes) is selected, the attempt to delete the existing profile photo is successful.</description>
+   <name>3. Verify that a client can delete an existing profile photo is successfully</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c1f63d6a-0ce5-40b2-af19-4ec37972ce9d</testCaseGuid>
+</TestCaseEntity>

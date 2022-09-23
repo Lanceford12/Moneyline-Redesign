@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>14. Verify that a registered Moneyline user can delete an alert from the logged-in profile user select yes</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4cbb013d-1f67-4679-a6ca-2f461e0d7266</testCaseGuid>
+</TestCaseEntity>

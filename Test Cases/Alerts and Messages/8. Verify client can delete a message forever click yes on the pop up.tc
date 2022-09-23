@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>8. Verify client can delete a message forever click yes on the pop up</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a1c7be13-9fbb-4a1b-a79c-2d2e3845fe05</testCaseGuid>
+</TestCaseEntity>

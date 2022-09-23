@@ -1,0 +1,39 @@
+import static com.kms.katalon.core.checkpoint.CheckpointFactory.findCheckpoint
+import static com.kms.katalon.core.testcase.TestCaseFactory.findTestCase
+import static com.kms.katalon.core.testdata.TestDataFactory.findTestData
+import static com.kms.katalon.core.testobject.ObjectRepository.findTestObject
+import static com.kms.katalon.core.testobject.ObjectRepository.findWindowsObject
+import com.kms.katalon.core.checkpoint.Checkpoint as Checkpoint
+import com.kms.katalon.core.cucumber.keyword.CucumberBuiltinKeywords as CucumberKW
+import com.kms.katalon.core.mobile.keyword.MobileBuiltInKeywords as Mobile
+import com.kms.katalon.core.model.FailureHandling as FailureHandling
+import com.kms.katalon.core.testcase.TestCase as TestCase
+import com.kms.katalon.core.testdata.TestData as TestData
+import com.kms.katalon.core.testng.keyword.TestNGBuiltinKeywords as TestNGKW
+import com.kms.katalon.core.testobject.TestObject as TestObject
+import com.kms.katalon.core.webservice.keyword.WSBuiltInKeywords as WS
+import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
+import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
+import internal.GlobalVariable as GlobalVariable
+import org.openqa.selenium.Keys as Keys
+
+WebUI.callTestCase(findTestCase('Login/login with correct credentials'), [:], FailureHandling.STOP_ON_FAILURE)
+
+WebUI.click(findTestObject('account settings/Hamburger Menu button'))
+
+WebUI.click(findTestObject('account settings/arrow button on the settings option from the menu bar img_1'))
+
+WebUI.click(findTestObject('Profile settings/label_Profile Settings'))
+
+WebUI.click(findTestObject('Profile settings/label_Username  Password'))
+
+WebUI.click(findTestObject('Profile settings/edit password button'))
+
+WebUI.setText(findTestObject('Object Repository/Profile settings/input_Existing Password'), 'EXV/7fvP')
+
+WebUI.setText(findTestObject('Object Repository/Profile settings/input_New Password'), 'Kony@123')
+
+WebUI.setText(findTestObject('Object Repository/Profile settings/input_Confirm Password'), 'Kony@123')
+
+WebUI.click(findTestObject('Object Repository/Profile settings/label_Continue password change'))
+

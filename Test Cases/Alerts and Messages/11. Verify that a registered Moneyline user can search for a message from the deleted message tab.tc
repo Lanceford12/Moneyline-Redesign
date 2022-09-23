@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>11. Verify that a registered Moneyline user can search for a message from the deleted message tab</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1361de0b-0957-4eb3-8d5a-0e505ff65662</testCaseGuid>
+</TestCaseEntity>

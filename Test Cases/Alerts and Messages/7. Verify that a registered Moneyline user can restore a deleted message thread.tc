@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>7. Verify that a registered Moneyline user can restore a deleted message thread</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3b4e6544-688b-4a4c-b986-f79b1b66812b</testCaseGuid>
+</TestCaseEntity>
